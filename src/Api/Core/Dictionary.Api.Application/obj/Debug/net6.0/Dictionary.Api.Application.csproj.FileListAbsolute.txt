@@ -1,0 +1,11 @@
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\bin\Debug\net6.0\Dictionary.Api.Application.deps.json
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\bin\Debug\net6.0\Dictionary.Api.Application.dll
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\bin\Debug\net6.0\Dictionary.Api.Application.pdb
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\Dictionary.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\Dictionary.Api.Application.AssemblyInfoInputs.cache
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\Dictionary.Api.Application.AssemblyInfo.cs
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\Dictionary.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\Dictionary.Api.Application.dll
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\refint\Dictionary.Api.Application.dll
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\Dictionary.Api.Application.pdb
+C:\Users\Sfenks\Desktop\DictionaryApi\src\Api\Core\Dictionary.Api.Application\obj\Debug\net6.0\ref\Dictionary.Api.Application.dll

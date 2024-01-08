@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jBXzcd7yFyMY5AG9tJV5FReB6wge8O+6Tey8f47PTRU=",
+  "Source": "Dictionary.Api.WebApi",
+  "BasePath": "_content/Dictionary.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
