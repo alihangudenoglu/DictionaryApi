@@ -1,4 +1,6 @@
-﻿using Dictionary.Api.Persistence.Context;
+﻿using Dictionary.Api.Application.Interfaces.Repositories;
+using Dictionary.Api.Persistence.Context;
+using Dictionary.Api.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -23,8 +25,14 @@ public static class Registration
             });
         });
 
-        var seedData = new SeedData();
-        seedData.SeedAsync(configuration).GetAwaiter().GetResult();
+        ///This code is not always used because the program generates fake data every time it runs
+        //var seedData = new SeedData();
+        //seedData.SeedAsync(configuration).GetAwaiter().GetResult();
+
+        services.AddScoped<IUserRepository, UserRepository>();
+        services.AddScoped<IEmailConfirmationRepository, EmailConfirmationRepository>();
+        services.AddScoped<IEntryRepository, EntryRepository>();
+        services.AddScoped<IEntryCommentRepository, EntryCommentRepository>();
 
         return services;
     }

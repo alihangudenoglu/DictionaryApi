@@ -9,3 +9,16 @@ C:\Users\Sfenks\Desktop\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net
 C:\Users\Sfenks\Desktop\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\refint\Dictionary.Common.dll
 C:\Users\Sfenks\Desktop\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.pdb
 C:\Users\Sfenks\Desktop\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\ref\Dictionary.Common.dll
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\bin\Debug\net6.0\Dictionary.Common.deps.json
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\bin\Debug\net6.0\Dictionary.Common.dll
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\bin\Debug\net6.0\Dictionary.Common.pdb
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.AssemblyInfoInputs.cache
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.AssemblyInfo.cs
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.csproj.CoreCompileInputs.cache
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.sourcelink.json
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.dll
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\refint\Dictionary.Common.dll
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.pdb
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\ref\Dictionary.Common.dll
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Common\Dictionary.Common\obj\Debug\net6.0\Dictionary.Common.csproj.AssemblyReference.cache

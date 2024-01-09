@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "33Fa4TsvWSHqfXxKYL7T1raJEyHMjg1y7GsaOtZyTI3uKy3IFmryYStCKSJ/JJPeI8wWYDcCj3aErRe4xLfTmg==",
+  "dgSpecHash": "UldlBtEdXi88BnynEv91drTERVsG8G1FHRvtrrF9XbHBRCwBofsdZoPBL0kMbWkVEhC30TJtntvyjIBbue+9bA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sfenks\\Desktop\\kodlamalar\\TechBuddy\\DictionaryApi\\src\\Common\\Dictionary.Common\\Dictionary.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sfenks\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sfenks\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Sfenks\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sfenks\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
