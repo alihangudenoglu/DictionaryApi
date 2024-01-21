@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "RoKPdUEN5loR0ZIqyy0shd29d0u6L/YZgogE2ftSw53sBBHiGzFZ4mJobvDKGG1FZaV5FzmJ4Dn0rLZ4jJWGWQ==",
+  "dgSpecHash": "NC7v59McGTeg1YLshNcyIiGPTEmBjnsWgIxrpTbEOeX/0vfV7F+SiRiMglPJ/A7IA+VP1nZG2jjNOWZdpJ3vMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sfenks\\Desktop\\kodlamalar\\TechBuddy\\DictionaryApi\\src\\Api\\Core\\Dictionary.Api.Domain\\Dictionary.Api.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sfenks\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Sfenks\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Sfenks\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
-    "C:\\Users\\Sfenks\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Sfenks\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sfenks\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\Sfenks\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sfenks\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

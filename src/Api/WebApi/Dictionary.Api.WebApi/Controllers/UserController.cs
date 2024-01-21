@@ -24,4 +24,19 @@ public class UserController : ControllerBase
         return Ok(result);
     }
 
+    [HttpPost]
+    public async Task<IActionResult> Create([FromBody] CreateUserCommand command)
+    {
+        var result = await _mediator.Send(command);
+        return Ok(result);
+    }
+
+    [HttpPost]
+    [Route("Update")]
+    public async Task<IActionResult> UpdateUser([FromBody] UpdateUserCommand command)
+    {
+        var result = await _mediator.Send(command);
+        return Ok(result);
+    }
+
 }

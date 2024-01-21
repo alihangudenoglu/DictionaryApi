@@ -156,3 +156,4 @@ C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Api\WebApi\Dictio
 C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Api\WebApi\Dictionary.Api.WebApi\obj\Debug\net6.0\Dictionary.Api.WebApi.csproj.CopyComplete
 C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Api\WebApi\Dictionary.Api.WebApi\obj\Debug\net6.0\Dictionary.Api.WebApi.genruntimeconfig.cache
 C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Api\WebApi\Dictionary.Api.WebApi\obj\Debug\net6.0\ref\Dictionary.Api.WebApi.dll
+C:\Users\Sfenks\Desktop\kodlamalar\TechBuddy\DictionaryApi\src\Api\WebApi\Dictionary.Api.WebApi\bin\Debug\net6.0\RabbitMQ.Client.dll

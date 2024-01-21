@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Dictionary.Api.Domain.Models;
 using Dictionary.Common.Models.Queries;
+using Dictionary.Common.Models.RequestModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,8 @@ public class MappingProfile:Profile
     public MappingProfile()
     {
         CreateMap<User,LoginUserViewModel>().ReverseMap();
+        CreateMap<CreateUserCommand, User>();
+        CreateMap<UpdateUserCommand, User>();
+
     }
 }
